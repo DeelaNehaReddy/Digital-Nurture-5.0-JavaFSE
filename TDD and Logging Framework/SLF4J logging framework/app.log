@@ -1,0 +1,10 @@
+21:35:25.711 [main] DEBUG AppenderLogging - This Is A Debug Message
+21:35:25.713 [main] INFO  AppenderLogging - This Is An Info Message
+21:35:25.713 [main] WARN  AppenderLogging - This Is A Warning Message
+21:35:25.714 [main] ERROR AppenderLogging - This Is An Error Message
+21:35:34.342 [main] ERROR Logging - This Is An Error Message
+21:35:34.344 [main] WARN  Logging - This Is A Warning Message
+21:35:41.469 [main] DEBUG AppenderLogging - This Is A Debug Message
+21:35:41.470 [main] INFO  AppenderLogging - This Is An Info Message
+21:35:41.471 [main] WARN  AppenderLogging - This Is A Warning Message
+21:35:41.471 [main] ERROR AppenderLogging - This Is An Error Message
